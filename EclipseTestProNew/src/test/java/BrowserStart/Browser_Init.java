@@ -7,7 +7,7 @@ import org.testng.annotations.BeforeMethod;
 public class Browser_Init 
 {
 	//Akshay
-	//int a=10;
+	
 
 }
 	
